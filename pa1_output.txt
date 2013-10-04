@@ -1,0 +1,64 @@
+> invalid command
+> > /Users/ross/proj/cs31a/pa1/test
+> bar
+foo
+> why
+hello
+there
+how
+are
+you hello
+blah
+grr hello
+grr
+stuff
+> why
+hello
+there
+how
+are
+you hello
+blah
+grr hello
+grr
+stuff
+this is a second
+test file, hello!
+> 12
+> hello
+you hello
+grr hello
+test file, hello!
+> 4
+> > bar
+foo
+friendly-lines
+> hello
+you hello
+grr hello
+test file, hello!
+> 1
+> 1 badcommandname
+2 cd test
+3 pwd
+4 ls
+5 cat foo
+6 cat foo bar
+7 cat foo bar | lc
+8 cat foo bar | grep hello
+9 cat foo bar | grep hello | lc
+10 cat foo bar | grep hello > friendly-lines
+11 ls
+12 cat friendly-lines
+13 ls | grep foo | lc
+>8 cat foo bar | grep hello
+9 cat foo bar | grep hello | lc
+10 cat foo bar | grep hello > friendly-lines
+> bar
+foo
+friendly-lines
+> hello
+you hello
+grr hello
+test file, hello!
+> goodbye
